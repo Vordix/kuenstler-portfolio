@@ -1,0 +1,18 @@
+/* Stil für den Titel */
+.titelText {
+
+    font-family: "Doto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+   
+
+    color: #e90404;
+    text-align: left;
+    margin-top: 40px;
+}
+.headContainer {
+    display: flex;
+    background-color: black;
+    align-items: center;
+}
